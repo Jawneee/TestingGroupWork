@@ -9,7 +9,11 @@ public class Testing {
 		
 		System.out.println("2");
 		
+
 		System.out.println("I Like Kimchi with rice");
+
+		System.out.println("This is John");
+
 		
 	}
 
