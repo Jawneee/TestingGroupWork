@@ -13,9 +13,16 @@ public class Testing {
 		System.out.println("I Like Kimchi with rice");
 
 		System.out.println("This is John");
+
+		
+		System.out.println("This is Jordan");
+		
+
+		System.out.println("this is mark");
 		
 		
-		
+		System.out.println("This is Chris :D");
+
 		
 	}
 
