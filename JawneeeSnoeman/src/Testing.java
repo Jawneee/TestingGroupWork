@@ -11,6 +11,8 @@ public class Testing {
 		
 		System.out.println("This is John");
 		
+		System.out.println("First push - john");
+		
 	}
 
 }
